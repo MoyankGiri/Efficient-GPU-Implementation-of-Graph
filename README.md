@@ -1,4 +1,4 @@
-# Efficient-GPU-Implementation-of-Graph-Algorithms_POPProject
+# Efficient-GPU-Implementation-of-Graph-Algorithms
 
 ## Introduction
 Graph algorithms are vital components in various
