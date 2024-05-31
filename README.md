@@ -30,6 +30,8 @@ The repository consists of the implementation of the following graph algorithms:
 10. Diameter of the graph
 11. Minimum and Maximum Degree with NodeIDs
 
+### For more details, please refer to the [Final Report](https://github.com/MoyankGiri/Efficient-GPU-Implementation-of-Graph-Algorithms/blob/main/FinalReport.pdf)
+
 ## Team Members
 1. Moyank Giri 12310830 M.Tech DSAI
 2. Harshit Kumar 12310680 M.Tech DSAI
